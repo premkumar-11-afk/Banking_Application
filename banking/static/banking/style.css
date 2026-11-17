@@ -1,0 +1,8 @@
+body { background: #f4f7fb; min-height: 100vh; }
+.card { border: 0; border-radius: 14px; }
+.auth-card { max-width: 480px; margin-top: 2rem; }
+.form-card { max-width: 620px; }
+.balance-card { background: linear-gradient(135deg, #123b82, #2878d0); }
+input, select { display:block; width:100%; padding:.6rem .75rem; border:1px solid #ced4da; border-radius:.375rem; }
+input:focus { outline: 2px solid #9ec5fe; border-color:#86b7fe; }
+.navbar .nav-link { padding-left:0; padding-right:0; }
