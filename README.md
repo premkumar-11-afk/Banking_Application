@@ -82,3 +82,17 @@ For a production-grade application, additional security, audit logging, monitori
 - `README.md`: setup and deployment instructions
 - `MANUAL_TEST_PLAN.md`: QA plan and test cases
 - `BUG_REPORT_TEMPLATE.md`: defect reporting template
+
+
+
+
+<img width="1866" height="959" alt="image" src="https://github.com/user-attachments/assets/920bf24e-cd2b-4e82-bf69-81c72cf0f302" />
+
+
+
+
+<img width="1911" height="946" alt="image" src="https://github.com/user-attachments/assets/2a99401e-22b6-41c4-ad91-42a6c75a0022" />
+
+
+
+
